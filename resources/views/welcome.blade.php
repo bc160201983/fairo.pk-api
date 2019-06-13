@@ -81,17 +81,18 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Fairo.pk Api v0.01
+                    
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
+                    <a href="/doc">Fairo Api Docs</a>
+                    <a href="https://fairo.pk/">Fairo.pk Website</a>
+                    {{-- <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://forge.laravel.com">Forge</a> --}}
+                    <a href="https://github.com/bc160201983/fairo.pk-api">GitHub Code</a>
                 </div>
             </div>
         </div>
